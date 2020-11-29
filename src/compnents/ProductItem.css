@@ -1,0 +1,35 @@
+.individual__product_item {
+  margin-top: 130px;
+  width: 80%;
+}
+.individual__product_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.individual__product_left img {
+  width: 350px;
+  object-fit: contain;
+}
+.individual__product_info {
+  display: flex;
+  flex-direction: column;
+}
+.individual__product_info span {
+  margin: 10px 0;
+}
+.individual__product_desc {
+  margin: 40px 100px;
+}
+.individual__product_left {
+  flex-basis: 25%;
+}
+.individual__product_right {
+  flex-basis: 40%;
+}
+.product__reviews {
+  margin: 10px auto 100px 100px;
+}
+.product__review_value {
+  font-size: 14px;
+}

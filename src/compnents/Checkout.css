@@ -1,0 +1,52 @@
+.checkout {
+  margin-top: 70px;
+}
+.checkout__container {
+  display: flex;
+}
+.checkout__left {
+  flex-basis: 70%;
+}
+.checkout__right {
+  flex-basis: 30%;
+}
+.checkout h1 {
+  text-align: center;
+  margin: 20px;
+}
+.checkout__img {
+  object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+.checkout__items {
+  display: flex;
+  width: 90%;
+  margin: 15px auto;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.checkout__items h3 {
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+.checkout__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.checkout__info p {
+  margin: 5px;
+}
+.checkout__info button {
+  margin: 5px;
+}
+.checkout__items {
+  display: flex;
+  justify-content: space-between;
+}
+.img__container {
+  flex-basis: 65%;
+}
+.checkout__info {
+  flex-basis: 35%;
+}

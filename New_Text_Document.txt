@@ -1,0 +1,82 @@
+
+Database (mysql/SQL/Mongdb/firebase)
+
+Signup Form
+	
+	Name
+	Email Address
+	Phone Number
+	Address Detail
+	
+	
+	After Successfull Signup 
+	
+		Sent an email for account verification and auto generated password
+		Link on email when click then account verified then move to login then after login Home
+		
+	Cart
+
+		Add item to the cart 
+		if item is out stock not add in cart
+		
+	Product Detail
+		
+			dispplay product information
+			
+			Product Name
+			Price
+			Description
+			Images (Slider)
+			Reviews
+	
+	View Cart
+		
+		Item dispplay in cart
+		Item Name	Quantity	Unit Price 	Item Price
+		Item Name	Quantity	Unit Price 	Item Price
+		
+		
+											Total Item 
+											Total Price
+											
+											Shipment Charges : 200
+																					
+	Proceed to Checkout
+	
+		Payment Method : Card/COD
+		
+		Order (OrderId,OrderAmount,OrderDate)
+		OrderDetail ()
+		
+	Thank You
+
+		Email on customer email address order Summary
+		
+	Account Area
+
+		Orders
+		
+			Order Id	Order Date		Item Count Order Price 
+			Order Id	Order Date		Item Count Order Price 
+			Order Id	Order Date		Item Count Order Price 
+			
+			
+	Home Page
+
+		Category 1				Category 2
+			Sub Category 1			Sub Category 2
+			Sub Category 1			Sub Category 2	
+			
+		
+		First Category
+
+			Product 1		Product 2	Product 3
+			
+		First Category
+
+			Product 1		Product 2	Product 3	
+								
+			
+		First Category
+
+			Product 1		Product 2	Product 3

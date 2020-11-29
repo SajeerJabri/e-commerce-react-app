@@ -1,0 +1,12 @@
+.category {
+  margin-top: 80px;
+}
+.nav__link {
+  background-color: lightgray;
+  width: fit-content;
+  border-radius: 10px;
+}
+.category__items {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}

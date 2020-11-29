@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.checkout__Logout {
+  margin: 100px;
+  text-align: center;
+}
+.varified-btn {
+  margin-top: 100px;
+}
+.email__varification {
+  margin-top: 100px;
+}

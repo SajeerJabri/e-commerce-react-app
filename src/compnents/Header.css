@@ -1,0 +1,30 @@
+.header {
+  width: 100%;
+  position: fixed;
+  z-index: 222;
+  top: 0;
+}
+.header a {
+  text-decoration: none;
+  color: #fff;
+}
+.header button {
+  padding: 8px 15px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+}
+.dropdown a {
+  color: black;
+}
+.navbar-brand a {
+  color: #000;
+  font-weight: 600;
+}
+.cart__icon svg,
+span {
+  color: #000;
+}
+.nav-link a {
+  color: #000;
+}
